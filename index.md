@@ -1,9 +1,5 @@
 ## Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/abedgharra123/Privacy-Policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### 1.WHAT INFORMATION DO WE COLLECT?
 We don't collect any information.
 
@@ -16,13 +12,13 @@ No.
 ### 4.HOW LONG WE KEEP YOUR INFORMATION?
 Until you delete our game
 
-###5.CONTROLS FOR DO-NOT-TRACK FEATURES
+### 5.CONTROLS FOR DO-NOT-TRACK FEATURES
 We don't collect any informations about you location.
 
-###6.DO WE MAKE UPDATES TO THIS NOTICE?
+### 6.DO WE MAKE UPDATES TO THIS NOTICE?
 Yes, if there is any update for our game we will update this notice.
 
-###7.HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+### 7.HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 IF YOU HAVE ANY QUESTIONS OR COMMENTS, YOU MAY EMAIL US AT abedd123gharra@gmail.com or by poost to 
 
 
