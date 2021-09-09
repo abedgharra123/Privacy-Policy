@@ -19,6 +19,6 @@ We don't collect any informations about you location.
 Yes, if there is any update for our game we will update this notice.
 
 ### 7.HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-IF YOU HAVE ANY QUESTIONS OR COMMENTS, YOU MAY EMAIL US AT abedd123gharra@gmail.com or by poost to 
+IF YOU HAVE ANY QUESTIONS OR COMMENTS, YOU MAY EMAIL US AT abedd123gharra@gmail.com .
 
 
