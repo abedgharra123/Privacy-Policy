@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Privacy Policy
 
 You can use the [editor on GitHub](https://github.com/abedgharra123/Privacy-Policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 1.WHAT INFORMATION DO WE COLLECT?
+We don't collect any information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2.HOW DO WE USE YOUR INFORAMTION?
+We don't collect any kind of informations about you, the only information we have about you is your score and we keep it to share it with only you.
 
-```markdown
-Syntax highlighted code block
+### 3.WILL YOUR INFORMAION BE SHARED WITH ANYONE?
+No.
 
-# Header 1
-## Header 2
-### Header 3
+### 4.HOW LONG WE KEEP YOUR INFORMATION?
+Until you delete our game
 
-- Bulleted
-- List
+###5.CONTROLS FOR DO-NOT-TRACK FEATURES
+We don't collect any informations about you location.
 
-1. Numbered
-2. List
+###6.DO WE MAKE UPDATES TO THIS NOTICE?
+Yes, if there is any update for our game we will update this notice.
 
-**Bold** and _Italic_ and `Code` text
+###7.HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+IF YOU HAVE ANY QUESTIONS OR COMMENTS, YOU MAY EMAIL US AT abedd123gharra@gmail.com or by poost to 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abedgharra123/Privacy-Policy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
