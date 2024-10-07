@@ -28,3 +28,4 @@ Yes, if there are any updates to our app, we will update this notice accordingly
 
 ### 7. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 If you have any questions or comments, you may email us at abedd123gharra@gmail.com.
+
